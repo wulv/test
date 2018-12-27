@@ -1,0 +1,726 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "es_temp/.external-ecmascript.js",
+    "static": true,
+    "longname": "es_temp/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "es_temp/index.js",
+    "content": "import money from './money';\nimport string from './string';\nexport default {\n    money,\n    string,\n};\n",
+    "static": true,
+    "longname": "/Users/wulv/wulv_env/study/test/test1/es_temp/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "file",
+    "name": "es_temp/money/index.js",
+    "content": "import tozhCN from './tozhCN';\nexport default {\n    tozhCN,\n};\n",
+    "static": true,
+    "longname": "/Users/wulv/wulv_env/study/test/test1/es_temp/money/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "es_temp/money/tozhCN.js",
+    "content": "/**\n * tozhCN 把字符串转成以分为单位的整数。\n * @memberof module:money\n * @param {number|string} num 金额\n * @returns {string} 中文大写的金额, 标准会计格式\n * @runkit true\n * @example\n * const tozhCN = require('zan-utils/money/tozhCN');\n * tozhCN(500.3);\n * // => 伍佰元叁角整\n */\nfunction tozhCN(num) {\n    if (typeof num === 'number') {\n        num = String(num);\n    }\n    if (!/^(0|[1-9]\\d*)(\\.\\d+)?$/.test(num)) {\n        throw new Error(`非法数据: ${JSON.stringify(num)}`);\n    }\n    let unit = '京亿万仟佰拾兆万仟佰拾亿仟佰拾万仟佰拾元角分';\n    let str = '';\n    num += '00';\n    const pos = num.indexOf('.');\n    if (pos >= 0) {\n        num = num.substring(0, pos) + num.substr(pos + 1, 2);\n    }\n    unit = unit.substr(unit.length - num.length);\n    for (let i = 0, len = num.length; i < len; i++) {\n        str +=\n            '零壹贰叁肆伍陆柒捌玖'.charAt(Number(num.charAt(i))) + unit.charAt(i);\n    }\n    return str\n        .replace(/零(仟|佰|拾|角)/g, '零')\n        .replace(/(零)+/g, '零')\n        .replace(/零(兆|万|亿|元)/g, '$1')\n        .replace(/(兆|亿)万/g, '$1')\n        .replace(/(京|兆)亿/g, '$1')\n        .replace(/(京)兆/g, '$1')\n        .replace(/(京|兆|亿|仟|佰|拾)(万?)(.)仟/g, '$1$2零$3仟')\n        .replace(/^元零?|零分/g, '')\n        .replace(/(元|角)$/g, '$1整');\n}\nexport default tozhCN;\n",
+    "static": true,
+    "longname": "/Users/wulv/wulv_env/study/test/test1/es_temp/money/tozhCN.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "tozhCN",
+    "memberof": "es_temp/money/tozhCN.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "es_temp/money/tozhCN.js~tozhCN",
+    "access": "public",
+    "export": true,
+    "importPath": "wulv-test1/money/tozhCN.js",
+    "importStyle": "tozhCN",
+    "description": "tozhCN 把字符串转成以分为单位的整数。",
+    "examples": [
+      "const tozhCN = require('zan-utils/money/tozhCN');\ntozhCN(500.3);\n// => 伍佰元叁角整"
+    ],
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{string} 中文大写的金额, 标准会计格式"
+      },
+      {
+        "tagName": "@runkit",
+        "tagValue": "true"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number",
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "num",
+        "description": "金额"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "中文大写的金额, 标准会计格式"
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "es_temp/string/addZero.js",
+    "content": "/**\n * 如果数字小于10前面自动添加0\n * @param {number} num 数字\n * @return {string} 处理后的字符串\n * @example\n * addZero(9);\n * // '09'\n * addZero(11);\n * // '11'\n */\nfunction addZero(num) {\n    return (num >= 0 && num < 10) ? `0${num}` : String(num);\n}\nexport default addZero;\n",
+    "static": true,
+    "longname": "/Users/wulv/wulv_env/study/test/test1/es_temp/string/addZero.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "addZero",
+    "memberof": "es_temp/string/addZero.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "es_temp/string/addZero.js~addZero",
+    "access": "public",
+    "export": true,
+    "importPath": "wulv-test1/string/addZero.js",
+    "importStyle": "addZero",
+    "description": "如果数字小于10前面自动添加0",
+    "examples": [
+      "addZero(9);\n// '09'\naddZero(11);\n// '11'"
+    ],
+    "lineNumber": 11,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "num",
+        "description": "数字"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "处理后的字符串"
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "es_temp/string/index.js",
+    "content": "import addZero from './addZero';\nexport default {\n    addZero,\n};\n",
+    "static": true,
+    "longname": "/Users/wulv/wulv_env/study/test/test1/es_temp/string/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "kind": "index",
+    "content": "This project was bootstrapped with [utils-cli](https://github.com/wulv/zan-utils-cli).\n\n## Available Scripts\n\nIn the project directory, you can run:\n\n### `npm dev`\n\nRuns the app in the development mode.<br>\nOpen [http://localhost:3001](http://localhost:3001) to view it in the browser.\n\nThe page will reload if you make edits.\n\n### `npm test`\n\nLaunches the test runner in the interactive watch mode.\n\n### `npm run build`\n\nBuilds the app for production to the `dist` folder.<br>\nIt correctly bundles React in production mode and optimizes the build for the best performance.\n\n### `npm run publish`\n\n\n",
+    "longname": "/Users/wulv/wulv_env/study/test/test1/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"wulv-test1\",\n  \"engines\": {\n    \"node\": \">=8.11.0\"\n  },\n  \"version\": \"0.1.1\",\n  \"dependencies\": {\n    \"wulv-utils-cli\": \"^0.0.3\"\n  },\n  \"scripts\": {\n    \"dev\": \"wulv-utils-cli dev\",\n    \"build\": \"wulv-utils-cli build\",\n    \"test\": \"wulv-utils-cli test\",\n    \"publish\": \"wulv-utils-cli publish\"\n  }\n}\n",
+    "longname": "/Users/wulv/wulv_env/study/test/test1/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
