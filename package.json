@@ -12,5 +12,8 @@
     "build": "wulv-utils-cli build",
     "test": "wulv-utils-cli test",
     "publish": "wulv-utils-cli publish"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.2"
   }
 }
