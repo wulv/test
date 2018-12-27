@@ -1,5 +1,5 @@
 {
-  "name": "wulv-test1",
+  "name": "zan-utils-cjs",
   "engines": {
     "node": ">=8.11.0"
   },
@@ -7,10 +7,8 @@
   "dependencies": {
     "wulv-utils-cli": "^0.0.3"
   },
-  "scripts": {
-    "dev": "wulv-utils-cli dev",
-    "build": "wulv-utils-cli build",
-    "test": "wulv-utils-cli test",
-    "publish": "wulv-utils-cli publish"
-  }
+  "scripts": {},
+  "main": "./index.js",
+  "typings": "./index.d.ts",
+  "devDependencies": {}
 }
