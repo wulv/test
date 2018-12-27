@@ -22,4 +22,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `npm run publish`
 
+publish docs to gh-pages branch,publish .publish to publish-[module] branch
 
