@@ -5,7 +5,7 @@
   },
   "version": "0.1.1",
   "dependencies": {
-    "wulv-utils-cli": "^0.0.6"
+    "wulv-utils-cli": "^0.0.7"
   },
   "scripts": {
     "dev": "wulv-utils-cli dev",
